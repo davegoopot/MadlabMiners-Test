@@ -1,7 +1,7 @@
-Madlab Miners
+MadLab Miners
 =============
 
-This repository is for planning and code related to the Minecraft/Minetest group at Madlab.
+This repository is for planning and code related to the Minecraft/Minetest group at MadLab.
 
 Next Meeting:  5th May 2013
 ===========================
