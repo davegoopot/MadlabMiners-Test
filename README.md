@@ -1,6 +1,11 @@
 MadLab Miners
 =============
 
+
+[BBC News] (http://news.bbc.co.uk)
+
+[Another page] (another.md)
+
 This repository is for planning and code related to the Minecraft/Minetest group at MadLab.
 
 Next Meeting:  5th May 2013
