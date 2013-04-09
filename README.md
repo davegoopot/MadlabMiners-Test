@@ -1,13 +1,13 @@
 Madlab Miners
-==============
+=============
 
 This repository is for planning and code related to the Minecraft/Minetest group at Madlab.
 
 Next Meeting:  5th May 2013
-=============================
+===========================
 
 Outline Plan
--------------
+------------
 
 * 12:00--14:00	Set up the room and network switch
 * 14:00--14:30	Intros and setting up of participants' laptops and accounts
@@ -19,5 +19,5 @@ Outline Plan
 
 
 To-do List
------------
+----------
 
